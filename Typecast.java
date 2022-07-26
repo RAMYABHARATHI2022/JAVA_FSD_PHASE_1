@@ -26,7 +26,7 @@ public class Typecast {
 		long l2 = (long) d;
 		float r = (float) d;
 		System.out.println("Float values:" + r);
-		System.out.println("Double values:" + d);
+		System.out.println("Double values:" + d1);
 		System.out.println("Long values:" + l2);
 
 	}
