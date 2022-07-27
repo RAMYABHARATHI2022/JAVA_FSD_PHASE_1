@@ -1,15 +1,15 @@
 package phase1.modifier.p1;
 
-public class P {
+public class Class_P {
 
 	public static void main(String[] args) {
 		
-		new M().methodPublic();
-		new M().methodProtected();
-		new M().methodDefault();
-		new N().methodPublic();
-		new N().methodProtected();
-		System.out.println("Value of int"+new M().b);
+		new Class_M().methodPublic();
+		new Class_M().methodProtected();
+		new Class_M().methodDefault();
+		new Class_N().methodPublic();
+		new Class_N().methodProtected();
+		System.out.println("Value of int"+new Class_M().b);
 		
 	}
 	public void methodPublic()
