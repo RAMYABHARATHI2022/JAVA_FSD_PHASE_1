@@ -1,6 +1,6 @@
 package phase1.modifier.p1;
 
-public class M {
+public class Class_m {
 	
 	private int a=20;
 	
