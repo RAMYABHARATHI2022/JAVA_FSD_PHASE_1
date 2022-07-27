@@ -19,9 +19,6 @@ public class Class_X {
 	void methodDefault()
 	{
 		System.out.println("We are in Default method");
-	}
-	private void methodPrivate()
-	{
 		System.out.println(r);
 		System.out.println(s);
 		System.out.println(t);
