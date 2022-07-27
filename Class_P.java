@@ -26,9 +26,4 @@ public class Class_P {
 		System.out.println("We are in M class Default method");
 	
 	}
-	private void methodPrivate()
-	{
-		System.out.println("We are in M class Private method");
-	}
-
 }
