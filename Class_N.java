@@ -1,6 +1,6 @@
 package phase1.modifier.p1;
 
-public class N {
+public class Class_N {
 	
 	protected long d=2563;
 	
